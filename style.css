@@ -1,0 +1,121 @@
+body {
+ background-color: #f5f5f5;
+ padding-top: 60px;
+}
+
+h2 {
+font-size: 20px;
+}
+
+h1 {
+font-size: 24px;
+}
+
+header .navbar {
+ background-color: orange;
+ height: 60px;
+ min-height: 60px;
+ margin-bottom: 0;
+}
+
+.navbar-brand {
+ float: left;
+ height: 60px;
+ padding: 20px 15px;
+ font-size: 18px;
+ line-height: 20px;
+}
+
+.navbar-nav>li>a {
+ padding-top: 20px;
+ padding-bottom: 20px;
+}
+
+.container {
+ 
+}
+
+.content {
+ background-color: white;
+}
+
+.well {
+ border-radius: 0;
+ width: 100%;
+ height: 100%;
+}
+
+footer {
+ background-color: #555;
+ border-top: 5px solid orange;
+}
+
+.copyright {
+ background-color: orange;
+ width: 100%;
+ height: 60px;
+ min-height: 60px;
+}
+
+blockquote {
+font-style: italic;
+color: #656565;
+margin-left: 10px;
+padding-left: 5px;
+border-left: 5px solid #D4CE8F;
+}
+
+.entry-title {
+background-color: #D4CE8F;
+display: table-cell;
+font-family: Open Sans;
+color: white;
+}
+
+.sidebar {
+border-left: 1px solid #DBDBDB;
+padding-left: 20px;
+}
+
+.archive > ul, .categories > ul{
+list-style-type: none;
+margin-left: -30px;
+}
+
+.date {
+margin-top: 30px;
+padding-top: 5px;
+color: #ADADAD;
+border-top: 1px solid #ADADAD;
+}
+
+ul.nav.navbar-nav > li {
+text-transform: uppercase;
+}
+
+ul.nav.navbar-nav > li > a:active, ul.nav.navbar-nav > li > a:hover {
+background-color: #E79500;
+}
+
+ul.nav.navbar-nav > li > a {
+color: white;
+}
+
+.postbox {
+box-shadow: 0px 0px 5px -2px rgba(0, 0, 0, 0.75);
+border-top: 6px solid #15A0EC;
+border-bottom: 3px solid #15A0EC;
+padding: 5px;
+}
+
+.row {
+padding-top: 20px;
+}
+
+.postbox > .img-responsive {
+margin: 0px auto;
+}
+
+.header-img {
+ margin-top: -20px;
+}
